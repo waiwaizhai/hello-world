@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humens！
+
+WWZ here.just a learner.
